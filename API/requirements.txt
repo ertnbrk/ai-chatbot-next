@@ -1,0 +1,6 @@
+openai
+fastapi
+pydantic
+deep-translator
+langdetect
+uvicorn
